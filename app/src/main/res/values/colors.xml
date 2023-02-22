@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="green_a200">#69F0AE</color>
+    <color name="green_a400">#00E676</color>
+    <color name="green_a700">#00C853</color>
+
+    <color name="indigo_a100">#8C9EFF</color>
+    <color name="indigo_a200">#536DFE</color>
+
+    <color name="blue_gray_600">#546E7A</color>
+    <color name="blue_gray_800">#37474F</color>
+    <color name="blue_gray_900">#263238</color>
+
+    <color name="lite">#f5f5f5</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>

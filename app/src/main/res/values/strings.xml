@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Movie Apps</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="rating">0.0</string>
+    <string name="rating_container">rating container</string>
+    <string name="title_movie">Popular Movie</string>
+    <string name="title_tv">Popular TV Show</string>
+    <string name="splash">splash</string>
+    <string name="gradient">gradient</string>
+    <string name="sort_default">Sort by default</string>
+    <string name="sort_rating">Sort by rating</string>
+    <string name="favorite">Favorite</string>
+    <string name="sort_newest">Sort by Latest</string>
+    <string name="sort_oldest">Sort by Oldest</string>
+    <string name="movie">Movie</string>
+    <string name="tv_show">Tv Show</string>
+    <string name="poster_favorite">poster favorite</string>
+    <string name="undo">Undo delete?</string>
+    <string name="ok">YES</string>
+    <string name="delete">delete</string>
+</resources>
